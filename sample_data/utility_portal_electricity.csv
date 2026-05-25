@@ -1,0 +1,6 @@
+Account Number,Meter ID,Service Address,Billing Period Start,Billing Period End,Usage (kWh),Peak Demand (kW),Rate Schedule,Total Charges
+ACC-77821,MTR-E-1001,"100 Industrial Way, Berlin",2025-02-01,2025-02-28,45230,180,Commercial-TOU,8420.50
+ACC-77821,MTR-E-1002,"200 Logistics Park, Munich",2025-02-01,2025-02-28,62100,240,Commercial-TOU,11580.00
+ACC-99012,MTR-E-2001,"500 Campus Drive, Austin TX",2025-03-01,2025-03-31,89500,310,Large-General,18420.75
+ACC-99012,MTR-E-2002,"500 Campus Drive Bldg B",2025-03-01,2025-03-31,1200,45,Small-General,310.20
+ACC-77821,MTR-E-1001,"100 Industrial Way, Berlin",2025-03-01,2025-03-31,520000,400,Commercial-TOU,98000.00

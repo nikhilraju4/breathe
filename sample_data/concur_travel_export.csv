@@ -1,0 +1,8 @@
+Expense ID,Employee ID,Transaction Date,Expense Type,Vendor,Amount,Currency,Origin Airport,Destination Airport,Distance (km),Nights,City
+EXP-90001,E-10234,2025-03-05,Airfare,Lufthansa,842.00,USD,FRA,CDG,478,
+EXP-90002,E-10234,2025-03-05,Hotel,Marriott Paris,420.00,EUR,,, ,3,Paris
+EXP-90003,E-44501,2025-03-12,Airfare,United Airlines,1250.00,USD,SFO,JFK,,,
+EXP-90004,E-44501,2025-03-13,Ground Transport,Uber,34.50,USD,,,,,San Francisco
+EXP-90005,E-77890,2025-03-18,Rail,Deutsche Bahn,89.00,EUR,,, ,,Berlin
+EXP-90006,E-77890,2025-03-20,Airfare,British Airways,18500.00,GBP,LHR,JFK,5540,
+EXP-90007,E-99001,2025-03-22,,Unknown vendor,0.00,USD,,,,,
